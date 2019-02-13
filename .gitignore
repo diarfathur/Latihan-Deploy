@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+env_project_views
+db.sqlite3
+.DS_Store
